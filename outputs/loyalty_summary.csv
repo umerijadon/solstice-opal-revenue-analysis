@@ -1,0 +1,5 @@
+loyalty_tier,stays,total_revenue,avg_revenue_per_stay,conversion_rate,avg_spend_per_guest
+Gold,90,0.0,0.0,0.0,0.0
+Platinum,52,0.0,0.0,0.0,0.0
+Silver,163,0.0,0.0,0.0,0.0
+Unknown,265,0.0,0.0,0.0,0.0
